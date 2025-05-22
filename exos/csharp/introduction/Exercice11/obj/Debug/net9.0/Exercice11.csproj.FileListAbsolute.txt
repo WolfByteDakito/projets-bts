@@ -1,0 +1,14 @@
+C:\code\C# Condorcet Exo\Exercice11\bin\Debug\net9.0\Exercice11.exe
+C:\code\C# Condorcet Exo\Exercice11\bin\Debug\net9.0\Exercice11.deps.json
+C:\code\C# Condorcet Exo\Exercice11\bin\Debug\net9.0\Exercice11.runtimeconfig.json
+C:\code\C# Condorcet Exo\Exercice11\bin\Debug\net9.0\Exercice11.dll
+C:\code\C# Condorcet Exo\Exercice11\bin\Debug\net9.0\Exercice11.pdb
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.AssemblyInfoInputs.cache
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.AssemblyInfo.cs
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.csproj.CoreCompileInputs.cache
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.dll
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\refint\Exercice11.dll
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.pdb
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\Exercice11.genruntimeconfig.cache
+C:\code\C# Condorcet Exo\Exercice11\obj\Debug\net9.0\ref\Exercice11.dll

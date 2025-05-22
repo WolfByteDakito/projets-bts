@@ -1,0 +1,14 @@
+C:\CODE\C# Condorcet Exo\Boucles\For\bin\Debug\net9.0\For.exe
+C:\CODE\C# Condorcet Exo\Boucles\For\bin\Debug\net9.0\For.deps.json
+C:\CODE\C# Condorcet Exo\Boucles\For\bin\Debug\net9.0\For.runtimeconfig.json
+C:\CODE\C# Condorcet Exo\Boucles\For\bin\Debug\net9.0\For.dll
+C:\CODE\C# Condorcet Exo\Boucles\For\bin\Debug\net9.0\For.pdb
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.AssemblyInfoInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.AssemblyInfo.cs
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.csproj.CoreCompileInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.dll
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\refint\For.dll
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.pdb
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\For.genruntimeconfig.cache
+C:\CODE\C# Condorcet Exo\Boucles\For\obj\Debug\net9.0\ref\For.dll

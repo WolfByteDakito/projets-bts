@@ -1,0 +1,29 @@
+body {
+    background-image: url(img/pingouin.png);
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article {
+    background-image: url(img/pingouin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.75;
+    background-color: white;
+    margin: 20px;
+}
+
+section {
+    background-color: aqua;
+    opacity: 0.75;
+    margin: 20px;
+}
+
+h1 {
+    color: violet;
+}
+
+.style {
+    font-style: italic;
+}

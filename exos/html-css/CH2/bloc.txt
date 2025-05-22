@@ -1,0 +1,24 @@
+La 1ère ligne = le titre niveau 1, Arial 20 rouge, centré, arrière-plan jaune pâle.
+Les 2 lignes suivantes en Arial 16px violet, centrées ; la 1ère des 2 : § espacement avant la première ligne de 20 px ; espacement vertical après la deuxième de 20px.
+Les deux paragraphes qui suivent (jusque « intermédiaires ») en Arial 11px ; alinéa de 20 px; espacement avant et après de 25
+Suit une ligne numérotée automatiquement (« 1, L'origine lointaine... ») : Il y en aura 2 autres identiques : « 2. Les Australopithèques / 3. Le genre Homo », même format : Arial 15px, bleu, gras
+Le paragraphe qui suit (« De cette époque ») en Times new roman 12px italiques ; § marge horizontale de 1cm à gauche et à droite, espacement vertical 10 px avant et 20 px après
+Puis un nouveau sous-titre d'un autre type, liste non numérotée : format 13 px, souligné. Il y en a 9 identiques dans le document : 
+Le Dryopithèque et l’Ouranopithèque
+Le groupe des Ramapithèques-Sivapithèques
+Biochimie et chromosomes
+« Australopithecus afarensis »
+ Les autres Australopithèques
+« Homo habilis »
+ « Homo erectus »
+« Homo sapiens neanderthalensis »
+« Homo sapiens sapiens »
+
+
+Les paragraphes suivants la liste précédente de titres  : 
+§ retrait de la 1ère ligne 12, espacement 10 avant et 20 après. Ce sera le même format pour la quasi-totalité des paragraphes du document, sauf indication contraire, et sauf les sous-titres bien sûr. Cette instruction ne sera pas répétée !
+
+Après le 2ème sous-titre numéroté (« 2. Les australopithèques ») :
+ 2 paragraphes sont en italiques, avec le même format que celui qui suivait le sous-titre 1, soit § retrait 10 avant , espacement 10 avant et 20 après.
+ Dans le passage commençant par le sous-titre (titre 3) « Homo sapiens neanderthalensis » :
+ le 4ème paragraphe est formaté différemment : § pas de retrait, espacement 10 avant et 20 après ; avec puce; couleur bleu clair. Le dernier paragraphe du texte, à la fin du passage « Homo sapiens sapiens », est à formater de la même façon.

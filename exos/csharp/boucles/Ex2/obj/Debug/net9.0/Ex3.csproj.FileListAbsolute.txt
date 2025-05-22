@@ -1,0 +1,14 @@
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\bin\Debug\net9.0\Ex3.exe
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\bin\Debug\net9.0\Ex3.deps.json
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\bin\Debug\net9.0\Ex3.runtimeconfig.json
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\bin\Debug\net9.0\Ex3.dll
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\bin\Debug\net9.0\Ex3.pdb
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfoInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfo.cs
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.csproj.CoreCompileInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.dll
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\refint\Ex3.dll
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.pdb
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\Ex3.genruntimeconfig.cache
+C:\CODE\C# Condorcet Exo\Boucles\Ex3\obj\Debug\net9.0\ref\Ex3.dll

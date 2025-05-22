@@ -1,0 +1,12 @@
+﻿char a = '0';
+int b = a;
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);
+Console.WriteLine("Le code UNICODE de " + a++ + " est " + b++);

@@ -1,0 +1,14 @@
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\bin\Debug\net9.0\DoWhile.exe
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\bin\Debug\net9.0\DoWhile.deps.json
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\bin\Debug\net9.0\DoWhile.runtimeconfig.json
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\bin\Debug\net9.0\DoWhile.dll
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\bin\Debug\net9.0\DoWhile.pdb
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfoInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfo.cs
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.dll
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\refint\DoWhile.dll
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.pdb
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\DoWhile.genruntimeconfig.cache
+C:\CODE\C# Condorcet Exo\Boucles\DoWhile\obj\Debug\net9.0\ref\DoWhile.dll

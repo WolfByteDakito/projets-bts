@@ -1,0 +1,20 @@
+body {
+    background-image: url(img/pingouin.png), url(img/feuilles.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto, cover;
+}
+
+h1 {
+    color: violet;
+}
+
+.style {
+    font-style: italic;
+}
+
+.pinguin {
+    text-align: center;
+    background-image: url(img/pingouin.png);
+}

@@ -1,0 +1,14 @@
+C:\CODE\C# Condorcet Exo\Boucles\While\bin\Debug\net9.0\While.exe
+C:\CODE\C# Condorcet Exo\Boucles\While\bin\Debug\net9.0\While.deps.json
+C:\CODE\C# Condorcet Exo\Boucles\While\bin\Debug\net9.0\While.runtimeconfig.json
+C:\CODE\C# Condorcet Exo\Boucles\While\bin\Debug\net9.0\While.dll
+C:\CODE\C# Condorcet Exo\Boucles\While\bin\Debug\net9.0\While.pdb
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.dll
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\refint\While.dll
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.pdb
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+C:\CODE\C# Condorcet Exo\Boucles\While\obj\Debug\net9.0\ref\While.dll

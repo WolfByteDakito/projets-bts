@@ -1,0 +1,14 @@
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\bin\Debug\net9.0\Ex9.exe
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\bin\Debug\net9.0\Ex9.deps.json
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\bin\Debug\net9.0\Ex9.runtimeconfig.json
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\bin\Debug\net9.0\Ex9.dll
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\bin\Debug\net9.0\Ex9.pdb
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.AssemblyInfoInputs.cache
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.AssemblyInfo.cs
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.csproj.CoreCompileInputs.cache
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.dll
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\refint\Ex9.dll
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.pdb
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\Ex9.genruntimeconfig.cache
+c:\CODE\C# Condorcet Exo\Conditions\Ex9\obj\Debug\net9.0\ref\Ex9.dll

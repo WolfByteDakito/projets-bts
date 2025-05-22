@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(105, 94, 94);
+}
+
+article {
+    background-color: rgba(72, 255, 0, 0.774), ;
+    margin: 10px;
+}
+
+
+.stylearticle {
+    background-image: url(img/pingouin.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: hotpink;
+    border-style: dotted;
+    border-color: red;
+}
+
+.stylearticle1 {
+    background-image: url(img/pingouin.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: olive;
+    border-style: dotted;
+    border-color: red;
+}
+
+.stylearticle2 {
+    background-image: url(img/pingouin.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: blueviolet;
+    border-style: dotted;
+    border-color: red;
+}
