@@ -1,0 +1,3 @@
+SELECT nombuv
+FROM BUVEUR 
+WHERE nombuv LIKE 'D%';

@@ -1,0 +1,4 @@
+SELECT PROD.numprod, PROD.nomprod 
+FROM PRODUCTEUR AS PROD, VIN
+WHERE PROD.numprod=VIN.numprod
+AND cru != 'BORDEAUX'

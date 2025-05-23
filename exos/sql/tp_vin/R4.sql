@@ -1,0 +1,5 @@
+SELECT *
+FROM BUVEUR, ABU, VIN
+WHERE BUVEUR.numbuv=ABU.numbuv
+AND ABU.numvin=VIN.numvin
+AND cru IN ('BEAUJOLAIS', 'BORDEAUX')
