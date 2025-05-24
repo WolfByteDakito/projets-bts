@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\C# Condorcet Exo\\Boucles\\Ex1\\Ex1.csproj": {}
+    "C:\\Dev\\cours-bts-sio\\exos\\csharp\\boucles\\Ex1\\Ex1.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\C# Condorcet Exo\\Boucles\\Ex1\\Ex1.csproj": {
+    "C:\\Dev\\cours-bts-sio\\exos\\csharp\\boucles\\Ex1\\Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\C# Condorcet Exo\\Boucles\\Ex1\\Ex1.csproj",
+        "projectUniqueName": "C:\\Dev\\cours-bts-sio\\exos\\csharp\\boucles\\Ex1\\Ex1.csproj",
         "projectName": "Ex1",
-        "projectPath": "C:\\CODE\\C# Condorcet Exo\\Boucles\\Ex1\\Ex1.csproj",
-        "packagesPath": "C:\\Users\\amottner\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\C# Condorcet Exo\\Boucles\\Ex1\\obj\\",
+        "projectPath": "C:\\Dev\\cours-bts-sio\\exos\\csharp\\boucles\\Ex1\\Ex1.csproj",
+        "packagesPath": "C:\\Users\\mottn\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\cours-bts-sio\\exos\\csharp\\boucles\\Ex1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amottner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mottn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
