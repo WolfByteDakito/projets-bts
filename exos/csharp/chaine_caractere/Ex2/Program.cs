@@ -16,4 +16,3 @@ else
     string tPrime = t.Substring(i, j - i + 1);
     Console.WriteLine($"La sous-chaîne de t de l'indice {i} à l'indice {j} est : '{tPrime}'");
 }
-

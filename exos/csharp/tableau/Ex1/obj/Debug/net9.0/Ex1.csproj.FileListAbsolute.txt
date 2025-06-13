@@ -1,0 +1,15 @@
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfoInputs.cache
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.AssemblyInfo.cs
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.sourcelink.json
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\bin\Debug\net9.0\Ex1.exe
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\bin\Debug\net9.0\Ex1.deps.json
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\bin\Debug\net9.0\Ex1.runtimeconfig.json
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\bin\Debug\net9.0\Ex1.dll
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\bin\Debug\net9.0\Ex1.pdb
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.dll
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\refint\Ex1.dll
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.pdb
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\Ex1.genruntimeconfig.cache
+C:\Dev\cours-bts-sio\exos\csharp\tableau\Ex1\obj\Debug\net9.0\ref\Ex1.dll
